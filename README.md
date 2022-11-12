@@ -1,7 +1,7 @@
 # A Spectacular Week of Python
 ## Day 1 - Basics of Python
 * Libraries: `random`
-### Homework : 
+### Homework : Vanilla Python play
 * install the [altair package](https://anaconda.org/conda-forge/altair)
 * 1-homework.ipynb
 
